@@ -1,0 +1,27 @@
+
+html{
+  height:100%;
+ }
+
+.top-img{
+  background-image: url(../img/OIP.jpg);
+  background-size: 100%;
+  /* background-attachment: fixed; */
+  height: 100%;
+
+}
+
+.top-text{
+  text-align: center;
+  padding: 360px 0px;
+
+}
+
+.top-text h1{
+  font-size: 100px;
+  color: aliceblue;
+  line-height: normal;
+  padding: -70px 0px;
+  font-family: cursive;
+
+}
